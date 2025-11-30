@@ -63,7 +63,5 @@ EDA, Feature Engineering, Model Training & Evaluation, Cross Validation, Regress
 ---
 
 ## 📫 Contact Me
-📧 Email: dudukabcik@gmail.com  
-🔗 LinkedIn: (linkini ekleyebilirsin)
-
-Thanks for visiting my profile ❤️
+📧 Email: kbkcidudu@gmail.com
+🔗 LinkedIn: ️
