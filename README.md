@@ -67,13 +67,19 @@ Microsoft Azure | Azure ML Studio
 
 ---
 
-## 🌱 Growth Mindset
+## 🌱 Growth Path
 
-Currently transitioning from Data Science practitioner to:
+In addition to my Data Science background, I am currently following the MIUUL AI Roadmap.
 
-→ Deep Learning Engineer  
-→ Cloud-Oriented ML Engineer  
-→ Data Engineer (ML-focused)
+I am improving my skills in:
+
+- Deep Learning (ANN, CNN, Sequence Models)
+- Generative AI & Prompt Engineering
+- Data Engineering (Spark, Big Data, Data Pipelines)
+- Microsoft Azure for Data Science
+
+I apply what I learn by building practical projects. 
+These projects are organized under my **Data-Science-Roadmap** repository.
 
 ---
 
