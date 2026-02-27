@@ -67,19 +67,6 @@ Microsoft Azure | Azure ML Studio
 
 ---
 
-## 📌 Featured Projects
-
-### 📊 Telco Churn Prediction
-End-to-end ML pipeline with feature engineering and model optimization.
-
-### 🛒 CRM Analytics & CLTV Prediction
-Customer segmentation & lifetime value modeling using probabilistic models.
-
-### 🎯 Recommendation System
-Collaborative filtering implementation and evaluation.
-
----
-
 ## 🌱 Growth Mindset
 
 Currently transitioning from Data Science practitioner to:
