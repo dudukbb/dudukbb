@@ -60,5 +60,5 @@ I apply what I learn by building practical projects under my **Data-Science-Road
 ---
 
 ## 📫 Contact
-LinkedIn: www.linkedin.com/in/dudu-kabakçı-936a99252
-Mail: kbkcidudu@gmail.com
+- LinkedIn: www.linkedin.com/in/dudu-kabakçı-936a99252
+- Mail: kbkcidudu@gmail.com
