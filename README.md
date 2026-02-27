@@ -60,7 +60,7 @@ Python | SQL
 Pandas | NumPy | Scikit-Learn | PyTorch  
 
 **Tools:**  
-Git | GitHub | Linux | Conda | Jupyter Notebook  
+Git | GitHub | Jira | Linux | Conda | Jupyter Notebook  
 
 **Cloud (Learning):**  
 Microsoft Azure | Azure ML Studio  
