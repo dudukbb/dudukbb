@@ -1,53 +1,31 @@
-<h1 align="center">Hi 👋 I'm Dudu Kabakçı</h1>
-<p align="center">
-  Computer Engineer | Data Scientist | ML & Deep Learning Enthusiast
-</p>
+## 👩‍💻 About Me
 
----
+I am a Data Science graduate from MIUUL Bootcamp with a strong foundation in machine learning and data analysis.
 
-## 🎯 Career Direction
+I am currently expanding my expertise in:
+- Deep Learning
+- Data Engineering
+- Azure Cloud & ML Deployment
 
-I am a Data Science graduate from MIUUL Bootcamp, currently expanding my expertise in:
-
-- 🔥 Deep Learning
-- ⚙️ Data Engineering
-- ☁️ Azure Cloud & ML Deployment
-
-My goal is to build scalable, production-ready machine learning systems.
-
----
-
-## 🚀 What I Do
-
-- Build end-to-end data science pipelines
-- Apply feature engineering & model optimization techniques
-- Develop machine learning models for real-world business problems
-- Continuously improve system design & deployment knowledge
+My goal is to build scalable and production-ready machine learning systems.
 
 ---
 
 ## 🧠 Core Skills
 
-### 📊 Data Science
+### Data Science
 - Exploratory Data Analysis (EDA)
 - Feature Engineering
 - RFM & CLTV Modeling
 - Recommendation Systems
-- A/B Testing & Measurement
-- Model Evaluation & Validation
+- A/B Testing
+- Model Evaluation
 
-### 🤖 Machine Learning
+### Machine Learning
 - Supervised & Unsupervised Learning
 - Hyperparameter Tuning
 - Cross Validation
 - Classification & Regression
-- Bias-Variance Analysis
-
-### 🔥 Currently Learning
-- Deep Learning with PyTorch
-- Data Engineering fundamentals
-- Azure ML & Cloud-based pipelines
-- MLOps basics
 
 ---
 
@@ -56,33 +34,30 @@ My goal is to build scalable, production-ready machine learning systems.
 **Languages:**  
 Python | SQL  
 
-**ML & Data:**  
+**Libraries:**  
 Pandas | NumPy | Scikit-Learn | PyTorch  
 
 **Tools:**  
-Git | GitHub | Jira | Linux | Conda | Jupyter Notebook  
+Git | GitHub | Jira | Linux | Conda | Jupyter  
 
 **Cloud (Learning):**  
-Microsoft Azure | Azure ML Studio  
+Microsoft Azure | Azure ML  
 
 ---
 
-## 🌱 Growth Path
+## 🌱 AI Roadmap & Growth
 
-In addition to my Data Science background, I am currently following the MIUUL AI Roadmap.
+In addition to my Data Science background, I am following the MIUUL AI Roadmap.
 
-I am improving my skills in:
-
+I am strengthening my knowledge in:
 - Deep Learning (ANN, CNN, Sequence Models)
 - Generative AI & Prompt Engineering
-- Data Engineering (Spark, Big Data, Data Pipelines)
-- Microsoft Azure for Data Science
+- Data Engineering (Spark, Big Data, Pipelines)
+- Azure for Data Science
 
-I apply what I learn by building practical projects. 
-These projects are organized under my **Data-Science-Roadmap** repository.
+I apply what I learn by building practical projects under my **Data-Science-Roadmap** repository.
 
 ---
 
 ## 📫 Let's Connect
-LinkedIn: www.linkedin.com/in/dudu-kabakçı-936a99252
-Email: kbkcidudu@gmail.com
+LinkedIn: www.linkedin.com/in/dudu-kabakçı-
